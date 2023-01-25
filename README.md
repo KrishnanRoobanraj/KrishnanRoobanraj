@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Roobanraj
-- 🌱 I’m currently learning reactJS and reactNative
+- 🌱 Still exploring Java ,Springboot , React js 
 - I have done Some sample WebApps and Android Application , Do Check it out !
-- 👀 I’m interested to learn more technologies and libraries
+- 👀 I’m interested to learn more technologies in future
 
 
